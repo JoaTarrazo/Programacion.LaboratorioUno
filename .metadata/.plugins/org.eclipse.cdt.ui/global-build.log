@@ -1,0 +1,5 @@
+20:23:24 **** Rebuild of configuration Debug for project Clase 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase 1.o" "..\\src\\Clase 1.c" 
+gcc -o "Clase 1.exe" "src\\Clase 1.o" 
+Info: Nothing to build for Clase 1
