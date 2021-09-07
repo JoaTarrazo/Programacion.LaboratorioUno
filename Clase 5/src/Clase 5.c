@@ -11,10 +11,21 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void)
-{
+//PROTOTIPOS DE FUNCIONES:
 
-setbuf(stdout,NULL);
+
+
+int main(void)
+
+{
+	setbuf(stdout,NULL);
+
+
+
+
+
+
+
 
 
 
@@ -33,3 +44,11 @@ setbuf(stdout,NULL);
 
 	return EXIT_SUCCESS;
 }
+
+
+//FUNCIONES
+
+
+
+
+

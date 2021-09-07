@@ -1,5 +1,5 @@
-20:23:24 **** Rebuild of configuration Debug for project Clase 1 ****
+21:47:46 **** Incremental Build of configuration Debug for project funciones ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase 1.o" "..\\src\\Clase 1.c" 
-gcc -o "Clase 1.exe" "src\\Clase 1.o" 
-Info: Nothing to build for Clase 1
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\funciones.o" "..\\src\\funciones.c" 
+gcc -o funciones.exe "src\\funciones.o" 
+Info: Nothing to build for funciones
